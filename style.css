@@ -1,0 +1,68 @@
+img{
+width: 1440px;
+height: fit-content;
+}
+
+.chat {
+   position: relative;
+    bottom: 560px;
+    height: 370px;
+    left: 69px;
+    width: auto;
+}
+
+.web {
+    width: 1450px;
+    height:fit-content;
+}
+
+.friends {
+    position: relative;
+    bottom: 850px;
+    left: 450px;
+    width: 750px;
+    height: auto;
+
+}
+
+.star {
+    position: relative;
+    bottom: 540px;
+    width: 200px;
+    left: 610px;
+    height: auto;
+
+}
+
+.workers {
+    position: relative;
+    bottom: 800px;
+    width: 1500px;
+    height: auto;
+
+}
+
+.worktext {
+    position: relative;
+    bottom:1680px;
+    width: 1450px;
+    height: auto;
+}
+
+.workplace {
+    width: 1450px;
+    height: 760;
+}
+
+.textpage5 {
+   position: relative;
+   bottom: 800px;
+   width: 600px;
+   height: auto;
+   left: 400px;
+}
+
+.network {
+    position: relative;
+    bottom: 812px;
+}

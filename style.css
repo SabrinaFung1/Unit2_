@@ -72,3 +72,9 @@ height: fit-content;
     position: relative;
     bottom: 812px;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
